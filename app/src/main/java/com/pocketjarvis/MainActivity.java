@@ -618,7 +618,7 @@ public class MainActivity extends Activity {
         return
                 "I do not know that command yet. "
                         +
-                "Try: open " + lable +
+                "please try again next time" 
                         +
                 "time, date, settings, or list apps.";
     }
