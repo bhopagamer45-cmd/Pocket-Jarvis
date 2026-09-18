@@ -618,7 +618,7 @@ public class MainActivity extends Activity {
         return
                 "I do not know that command yet. "
                         +
-                "Try: open YouTube, search Gordon Ramsay steak, "
+                "Try: open " + lable +
                         +
                 "time, date, settings, or list apps.";
     }
